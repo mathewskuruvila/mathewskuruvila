@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mathews kuruvila" target="blank"><img src="https://img.shields.io/twitter/follow/mathews kuruvila?logo=twitter&style=for-the-badge" alt="mathews kuruvila" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://mathewskuruvila.github.io/](https://mathewskuruvila.github.io/)
+
 
 - 💬 Ask me about **MERN stack**
 
