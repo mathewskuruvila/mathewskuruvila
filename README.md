@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathewskuruvila" alt="mathewskuruvila" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mathews kuruvila" target="blank"><img src="https://img.shields.io/twitter/follow/mathews kuruvila?logo=twitter&style=for-the-badge" alt="mathews kuruvila" /></a> </p>
-
-
+- 👨‍💻 All of my projects are available at [https://mathewskuruvila.github.io/](https://mathewskuruvila.github.io/)
 
 - 💬 Ask me about **MERN stack**
 
@@ -15,15 +13,8 @@
 
 - ⚡ Fun fact **I am Funny!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/mathews kuruvila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mathews kuruvila" height="30" width="40" /></a>
-<a href="https://twitter.com/mathews kuruvila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mathews kuruvila" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mathews-kuruvila-mern-developer-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mathews-kuruvila-mern-developer-fullstack/" height="30" width="40" /></a>
 <a href="https://instagram.com/void_looper_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="void_looper_20" height="30" width="40" /></a>
 </p>
 
