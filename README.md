@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47mmkcvranwtfszhvtrxzizilbdt7l1nu7gxwlw115&ep=v1_gifs_related&rid=200.webp&ct=g" alt="mathewskuruvila" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathewskuruvila" alt="mathewskuruvila" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://mathewskuruvila.github.io/](https://mathewskuruvila.github.io/)
 
