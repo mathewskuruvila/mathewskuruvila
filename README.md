@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **MERN stack**
 
-- 📫 How to reach me **mathewsulike20@gmail.com**
+- 📫 How to reach me **mathewskuruvila32@gmail.com**
 
 - ⚡ Fun fact **I am Funny!**
 
