@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mathews kuruvila</h1>
 <h3 align="center">A passionate Full stack developer from India.</h3>
 
-[[<p align="left"> <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47mmkcvranwtfszhvtrxzizilbdt7l1nu7gxwlw115&ep=v1_gifs_related&rid=200.webp&ct=g" alt="mathewskuruvila" /> </p>
+<p align="left"> <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47mmkcvranwtfszhvtrxzizilbdt7l1nu7gxwlw115&ep=v1_gifs_related&rid=200.webp&ct=g" alt="mathewskuruvila" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathewskuruvila&label=Profile%20views&color=0e75b6&style=flat" alt="mathewskuruvila" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathewskuruvila" alt="mathewskuruvila" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=kimbie_dark)
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **E-Gurukulam**
 
