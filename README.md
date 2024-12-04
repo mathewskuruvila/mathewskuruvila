@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mathewskuruvila.github.io/](https://mathewskuruvila.github.io/)
 
-- 📝 I regularly write articles on [Data protection](Data protection)
+- 📝 I regularly write articles on [ Data protection ]( Data protection )
 
 - 💬 Ask me about **Web application security**
 
