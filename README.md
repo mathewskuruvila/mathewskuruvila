@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mathews kuruvila</h1>
-<h3 align="center">A passionate Full stack developer from India.</h3>
+<h3 align="center">A passionate Cyber security from India.</h3>
 
 <p align="left"> <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47mmkcvranwtfszhvtrxzizilbdt7l1nu7gxwlw115&ep=v1_gifs_related&rid=200.webp&ct=g" alt="mathewskuruvila" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mathewskuruvila&label=Profile%20views&color=0e75b6&style=flat" alt="mathewskuruvila" /> </p>
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **C2 server**
 
-- 🌱 I’m currently learning **Frontend System Design**
+- 🌱 I’m currently learning **Active directory**
 
 - 👨‍💻 All of my projects are available at [https://mathewskuruvila.github.io/](https://mathewskuruvila.github.io/)
 
