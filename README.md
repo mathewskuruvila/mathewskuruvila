@@ -22,12 +22,7 @@
 
 - ⚡ Fun fact **I am not funny while I am coding ☠**
 <h3 align="left">My Achievements:</h3>
-<p align="left">
-  <a href="https://tryhackme.com/p/mathewskuruvila3">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mathewskuruvila3.png" alt="TryHackMe Badge" />
-    
-  </a>
-</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mathews-kuruvila-mern-developer-fullstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathews-kuruvila-mern-developer-fullstack/" height="30" width="40" /></a>
